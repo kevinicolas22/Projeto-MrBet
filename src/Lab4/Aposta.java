@@ -5,6 +5,7 @@ Classe que representa uma aposta em um time de um campeonato.
 */
 public class Aposta {
     private Time time;
+    
     private Campeonato campeonato;
     private int colocacao;
     private double valor;
